@@ -1,0 +1,26 @@
+﻿{
+  "profileId": 1,
+  "rank": 2,
+  "experience": 2,
+  "name": "Mehak Jain",
+  "location": {
+    "state": "New Delhi",
+    "country": "India"
+  },
+  "images": {
+    "dp": "https://expertphotography.com/wp-content/uploads/2018/10/cool-profile-pictures-retouching-1.jpg",
+    "background": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Pangong_Tso_2.jpg/2880px-Pangong_Tso_2.jpg"
+  },
+  "bio": "If you are bitten by the travel bug, then nothing quite beats the satisfaction of hitting the tarmac to a destination far and beautiful. For travellers who like staying on the road more than home, Tripoto brings a handpicked section of road trips in and around India. From ambitious 10,000km sojourns to quick three hour getaways, here is all the inspiration and information you need to plan your next road trip.",
+  "highlighters": {
+    "wishlist": 12,
+    "buddies": 6,
+    "following": 543,
+    "followers": 283
+  },
+  "social": {
+    "facebook": "facebook.com",
+    "twitter": "twitter.com",
+    "share": "share/profile/1"
+  }
+}

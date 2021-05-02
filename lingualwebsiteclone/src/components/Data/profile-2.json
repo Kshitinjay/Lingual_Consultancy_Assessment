@@ -1,0 +1,27 @@
+﻿{
+  "profileId": 2,
+  "rank": 89,
+  "experience": 110,
+  "name": "Piyush Arya",
+  "location": {
+    "state": "Jaipur, Rajasthan",
+    "country": "India"
+  },
+  "images": {
+    "dp": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "background": "https://www.micato.com/wp-content/uploads/2018/09/jaipur-1110x700.jpg"
+  },
+  "bio": "TRAVELLING:- An oxygen cylinder used in the high altitudes of mountain called Life",
+  "description": "Foodie , Travel Junkie and Adventure Lover.. Obsessed with optimism and in love with my life...Got lucky with a husband who loves it all too...:) Aiming to write about anything & everything that inspires me and makes me happy! Feedback is always welcome. If you are bitten by the travel bug, then nothing quite beats the satisfaction of hitting the tarmac to a destination far and beautiful. For travellers who like staying on the road more than home, Tripoto brings a handpicked section of road trips in and around India. From ambitious 10,000km sojourns to quick three hour getaways, here is all the inspiration and information you need to plan your next road trip.",
+  "highlighters": {
+    "wishlist": 150,
+    "buddies": 200,
+    "following": 2,
+    "followers": 500
+  },
+  "social": {
+    "facebook": "facebook.com",
+    "twitter": "twitter.com",
+    "share": "share/profile/2"
+  }
+}

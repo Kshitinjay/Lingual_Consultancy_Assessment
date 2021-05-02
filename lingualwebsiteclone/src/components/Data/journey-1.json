@@ -1,0 +1,21 @@
+{
+  "profileId": 1,
+  "journey": {
+    "review": {
+      "content_type":"review",
+      "review_at":"2021-02-03 06:30:39",
+      "review" :"It was a wonderful experience when I visited Shimla for the first time. It was a peak winters in Shimla and I happened to be placed in Delhi in my Job. Initially, I had shown some resistance to my Boss who had directed me to go on duty . This is because of peak winter season in January . Believe me when I stayed in Shimla for a couple of days , winters were all forgotton. Pollution free enviornment in Shimla, healthy food, calm and serene atmosphere made my stay so attractive that I fell in love with the place.Early morning you could see clouds at your feet and touching your palm.Tall trees and pony rides added beauty to the place.It was indeed my most memorable experience so much so after the very first visit, I am a regular visitor to the place every year.",
+      "attraction": "Shimla",
+      "images":[
+        "https://www.clubmahindra.com/blog/media/section_images/shuttersto-fbe257a565f69a2.jpg",
+        "https://www.clubmahindra.com/blog/media/section_images/shuttersto-19a95aff8d4f2a2.jpg",
+        "clubmahindra.com/blog/media/section_images/shuttersto-0e05a64e0bf04f7.jpg",
+        "https://www.clubmahindra.com/blog/media/section_images/shuttersto-5456f2d027dd068.jpg"
+      ],
+      "reaction": {
+        "helpful":6,
+        "like": 90
+      }
+    }
+  }
+}
