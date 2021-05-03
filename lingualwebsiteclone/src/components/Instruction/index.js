@@ -2,8 +2,7 @@ import React from "react";
 
 const Instruction = () => {
   const style = {
-    height: "82vh",
-    border: "1px solid black",
+    height: "82.5vh",
     display: "flex",
     flexDirection: "column",
     justifyContent: "center",
