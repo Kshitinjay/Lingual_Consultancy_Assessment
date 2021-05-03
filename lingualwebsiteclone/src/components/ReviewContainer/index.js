@@ -27,7 +27,7 @@ const ReviewContainer = ({ BannerData, JourneyData }) => {
         <div id="postContainer">
           <div style={{ display: "flex", alignItems: "center" }}>
             <img src={BannerData.images.dp} alt="noImage" />
-            <h4>Mahek Jain</h4>
+            <h4>{BannerData.name}</h4>
           </div>
           <p>{JourneyData.journey.review.review_at}</p>
           <div id="images">
@@ -35,9 +35,8 @@ const ReviewContainer = ({ BannerData, JourneyData }) => {
               return <img src={item} alt="noImage" key={id} />;
             })}
           </div>
-          <div style={{marginTop:"20px"}}>
-            <p>{JourneyData.journey.review.review}
-            </p>
+          <div style={{ marginTop: "20px" }}>
+            <p>{JourneyData.journey.review.review}</p>
             <div
               style={{
                 display: "flex",
@@ -46,7 +45,9 @@ const ReviewContainer = ({ BannerData, JourneyData }) => {
               }}
             >
               <FontAwesomeIcon icon={faHeart} size="1x" />
-              <p style={{ marginLeft: "13px" }}>{JourneyData.journey.review.reaction.like}</p>
+              <p style={{ marginLeft: "13px" }}>
+                {JourneyData.journey.review.reaction.like}
+              </p>
             </div>
           </div>
         </div>
