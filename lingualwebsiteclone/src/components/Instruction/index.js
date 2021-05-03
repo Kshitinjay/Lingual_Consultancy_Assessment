@@ -11,9 +11,9 @@ const Instruction = () => {
   return (
     <div style={style}>
       <h2>Change url to view changes</h2>
-      <p>--> (url)/1 to view first profile.</p>
-      <p>--> (url)/1 to view second profile.</p>
-      <p>--> Invalid url will take you to this same page.</p>
+      <p>-- (url)/1 to view first profile.</p>
+      <p>-- (url)/2 to view second profile.</p>
+      <p>-- Invalid url will take you to this same page.</p>
     </div>
   );
 };
